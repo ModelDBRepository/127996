@@ -16,7 +16,7 @@ Download full project for loading into neuroConstruct
   
 Download core project elements in NeuroML format |
 
-[*](#downloadInfo) Note: neuroConstruct project downloads (most of which are included with the standard software distribution) can be loaded directly into neuroConstruct to generate cell and network scripts for NEURON, GENESIS, etc., but NeuroML downloads just consist of the core elements of the project (morphologies, channels, etc.) which have been exported in NeuroML format. The latter can be useful for testing NeuroML compliant applications. If no NeuroML download link is present, this usually indicates that the model is mainly implemented using channel/synapse mechanisms in a simulator's native language (e.g. mod files) which have not fully been converted to ChannelML yet.
+*Note: neuroConstruct project downloads (most of which are included with the standard software distribution) can be loaded directly into neuroConstruct to generate cell and network scripts for NEURON, GENESIS, etc., but NeuroML downloads just consist of the core elements of the project (morphologies, channels, etc.) which have been exported in NeuroML format. The latter can be useful for testing NeuroML compliant applications. If no NeuroML download link is present, this usually indicates that the model is mainly implemented using channel/synapse mechanisms in a simulator's native language (e.g. mod files) which have not fully been converted to ChannelML yet.
 
 ---
 
