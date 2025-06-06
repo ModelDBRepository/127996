@@ -3,13 +3,11 @@
 which contains a link to the Vervaeke et al. 2010 Golgi cell network model.
 
 ### VervaekeEtAl-GolgiCellNetwork
-
-|  |  |  |
-|---|---|---|
-| ![Screenshot of VervaekeEtAl-GolgiCellNetwork](index_files/small_006.png) <!-- Click to enlarge --> | **Project name:** **VervaekeEtAl-GolgiCellNetwork**  
+![Screenshot of VervaekeEtAl-GolgiCellNetwork](index_files/small_006.png)  
+**Project name:** **VervaekeEtAl-GolgiCellNetwork**  
 Network of electrically coupled cerebellar Golgi cells, as described in Vervaeke et al. Rapid Desynchronization of an Electrically Coupled Interneuron Network with Sparse Excitatory Synaptic Input, *Neuron* 2010.  
   
-Project last modified: Thursday August 12, 2010 | Downloads[*](#downloadInfo):  
+Project last modified: Thursday August 12, 2010 | Downloads[*](https://modeldb.science/getModelFile?model=127996&file=weblink/index.html&embed=True#downloadInfo):  
   
 [neuroConstruct project](http://www.neuroconstruct.org/models/downloads/VervaekeEtAl-GolgiCellNetwork.ncx.zip)  
 Download full project for loading into neuroConstruct  
@@ -25,7 +23,4 @@ Download core project elements in NeuroML format |
 Copyright © 2010 UCL  
 All rights reserved.  
 - Last Published: 08/12/2010 13:37:56
-
----
-
-2025-06-02: Converted README to Markdown.
+- Converted README to Markdown: 06/02/2025
